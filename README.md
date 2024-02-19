@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hemanthkumarreddyB
-- 👀 I’m a full stack developer which includes Java and JS
+- 👀 I’m a Front-end and Java full stack developer which includes Spring boot, ReactJS, NodeJS, and MongoDB.
 - 🌱 I’m currently learning Node and Express
 - 💞️ I’m looking to collaborate on new technologies
 - 📫 How to reach me ...
